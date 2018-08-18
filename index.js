@@ -3,3 +3,6 @@ function destructivelyAppendKitten(Ralph) {
   kittens.splice(3, 0, "Ralph")
 }
 
+function destructivelyPrependKitten(Bob) {
+  kittens.splice
+}
