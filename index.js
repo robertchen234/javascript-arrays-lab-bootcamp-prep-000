@@ -6,3 +6,7 @@ function destructivelyAppendKitten(Ralph) {
 function destructivelyPrependKitten(Bob) {
   kittens.splice(0, 0, "Bob")
 }
+
+function destructivelyRemoveLastKitten() {
+  kittens.pop()
+}
