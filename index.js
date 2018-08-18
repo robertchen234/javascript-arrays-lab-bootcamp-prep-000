@@ -4,5 +4,5 @@ function destructivelyAppendKitten(Ralph) {
 }
 
 function destructivelyPrependKitten(Bob) {
-  kittens.splice
+  kittens.splice(0, 0, "Bob")
 }
