@@ -1,4 +1,4 @@
 // Add your functions and code here
-fucntion destructivelyAppendKitten('Ralph') {
-  
+function destructivelyAppendKitten(Ralph) {
+  kittens.splice()
 }
